@@ -7,7 +7,6 @@ A full-stack application utilizing **ASP.NET Core MVC** and **Web API** to manag
 *   **Frontend:** ASP.NET Core MVC (Razor Views)
 *   **Backend:** ASP.NET Core Web API
 *   **Database:** SQL Server (LocalDB)
-*   **UI Framework:** Bootstrap 5 & AdminLTE 3
 
 ---
 
