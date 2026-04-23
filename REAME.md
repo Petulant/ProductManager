@@ -48,12 +48,10 @@ The solution is divided into four main layers:
 3. **API:** RESTful endpoints for data operations.
 4. **Web:** The MVC user interface.
 
-
 ## 5. Entity Relationship Diagram (ERD)
 The system uses a **One-to-Many** relationship between Categories and Products:
 *   One **Category** can have multiple **Products**.
 *   Each **Product** belongs to exactly one **Category** via the `CategoryId` Foreign Key.
-*   **Audit Fields:** Both tables implement tracking for `CreatedDate` and `CreatedBy`.
 
 Entity Relationship Diagram (ERD)
 ![Database ERD](./ERD.png)
