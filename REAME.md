@@ -1,7 +1,7 @@
 # Product Manager System - Technical Documentation
 
 ## 1. Project Overview
-A full-stack application utilizing **ASP.NET Core MVC** and **Web API** to manage product inventories and categories.
+A full-stack application utilizing **ASP.NET Core MVC** and **Web API** to manage product and categories.
 
 ### Tech Stack
 *   **Frontend:** ASP.NET Core MVC (Razor Views)
@@ -37,10 +37,7 @@ A full-stack application utilizing **ASP.NET Core MVC** and **Web API** to manag
 
 *   **5.2 Performance:** Implemented server-side pagination for the Product list.
 *   **5.3 Validation:** Added server-side validation using `ModelState` and `asp-validation-summary`.
-*   **5.5 Auditing:** Automated tracking of `CreatedDate` via `DbContext` override.
 *   **5.7 Documentation:** Full technical setup guide (this document).
-
-
 
 ---
 
